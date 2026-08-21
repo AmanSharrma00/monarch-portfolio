@@ -57,7 +57,7 @@ export function Footer() {
           </div>
 
           <p className="font-mono text-[10px] text-ink-600 mt-4">
-            © {new Date().getFullYear()} Aman Panday. All rights reserved.
+            © {new Date().getFullYear()} Aman Sharma. All rights reserved.
           </p>
         </div>
       </div>

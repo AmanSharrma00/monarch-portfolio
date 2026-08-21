@@ -46,7 +46,7 @@ export function SystemMap() {
           {/* Center node */}
           <div className={`absolute z-10 flex flex-col items-center justify-center w-28 h-28 md:w-32 md:h-32 rounded-full glass-strong border-glow text-center transition-all duration-700 ${visible ? 'opacity-100 scale-100' : 'opacity-0 scale-50'}`}>
             <span className="font-display text-sm md:text-base font-bold text-ink-50">AMAN</span>
-            <span className="font-display text-sm md:text-base font-bold text-ink-50">PANDAY</span>
+            <span className="font-display text-sm md:text-base font-bold text-ink-50">SHARMA</span>
             <span className="font-mono text-[8px] md:text-[9px] uppercase tracking-wider text-monarch-400 mt-1">Core</span>
           </div>
 

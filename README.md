@@ -20,6 +20,24 @@ It is designed as more than a traditional portfolio — combining project showca
 - Skills, achievements, and engineering profile
 - Responsive UI for desktop and mobile
 
+## 📸 Screenshots
+
+### MONARCH — Home
+
+![MONARCH Home](public/homepage.png)
+
+### Featured Projects
+
+![Featured Projects](public/projects.png)
+
+### MONARCH AI
+
+![MONARCH AI](public/ai.png)
+
+### MONARCH CLI
+
+![MONARCH CLI](public/cli.png)
+
 ## 🚀 Featured Projects
 
 ### AI-Driven Data-Entry Automation Bot
@@ -82,10 +100,16 @@ The local development server will be available at the URL shown by Vite.
 ```text
 monarch-portfolio/
 ├── public/
+│   ├── ai.png
+│   ├── cli.png
+│   ├── homepage.png
+│   ├── projects.png
+│   ├── monarch-mark.svg
+│   └── resume.pdf
 ├── src/
 ├── package.json
 ├── tsconfig.json
-├── vite.config.*
+├── vite.config.ts
 └── README.md
 ```
 
